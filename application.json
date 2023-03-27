@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "id": "User Preference ",
+      "isDefault": false
+    },
+    {
+      "id": "Failed Attempt ",
+      "isDefault": false
+    },
+    {
+      "id": "Incoming Calls",
+      "isDefault": false
+    },
+    {
+      "id": "User Access ",
+      "isDefault": false
+    },
+    {
+      "id": "Image ",
+      "isDefault": false
+    },
+    {
+      "id": "Cin ",
+      "isDefault": false
+    },
+    {
+      "id": "Card ",
+      "isDefault": false
+    },
+    {
+      "id": "Referal Info",
+      "isDefault": false
+    },
+    {
+      "id": "Wire ",
+      "isDefault": false
+    },
+    {
+      "id": "Recipient ",
+      "isDefault": false
+    },
+    {
+      "id": "Failed Attempt History",
+      "isDefault": false
+    },
+    {
+      "id": "Device ",
+      "isDefault": false
+    },
+    {
+      "id": "Home page ",
+      "isDefault": false
+    },
+    {
+      "id": "Login",
+      "isDefault": true
+    },
+    {
+      "id": "One Time Password ",
+      "isDefault": false
+    },
+    {
+      "id": "Cache ",
+      "isDefault": false
+    },
+    {
+      "id": "Registration",
+      "isDefault": false
+    },
+    {
+      "id": "Partner Calls",
+      "isDefault": false
+    },
+    {
+      "id": "Beneficiary",
+      "isDefault": false
+    },
+    {
+      "id": "Ntofications",
+      "isDefault": false
+    },
+    {
+      "id": "Users",
+      "isDefault": false
+    },
+    {
+      "id": "Wallet",
+      "isDefault": false
+    },
+    {
+      "id": "Transactions",
+      "isDefault": false
+    },
+    {
+      "id": "Wallet Holders",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "63e25fe3599b2410f04f056f",
+  "color": "#D9E7FF",
+  "icon": "server-line",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

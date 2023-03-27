@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "update_ref",
+    "pageId": "Referal Info",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Referal Info_update_ref",
+  "deleted": false,
+  "gitSyncId": "6420ce86298b8349e422bead_6420ce87298b8349e422bfa4"
+}
